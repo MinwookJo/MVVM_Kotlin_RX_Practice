@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Kotlin Practice App</string>
+    <string name="title_activity_base_kotlin">BaseKotlinActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
